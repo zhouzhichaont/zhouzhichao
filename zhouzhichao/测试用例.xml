@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tasks>
+  <task id="1">
+    <Author>赵一</Author>
+    <SubmitTime>20110120</SubmitTime>
+    <Priority>0</Priority>
+    <DueTime>20180918</DueTime>
+    <Assignee>赵一</Assignee>
+    <Content>aaaaaa</Content>
+    <HandlingNote>abcde</HandlingNote>
+    <Status>1</Status>
+    <FinallyTime>20180920</FinallyTime>
+    <Checker>赵一</Checker>
+    <CheckTime>20180920</CheckTime>
+  </task>
+  <task id="2">
+    <Author>钱二</Author>
+    <SubmitTime>20180919</SubmitTime>
+    <Priority>1</Priority>
+    <DueTime>20180926</DueTime>
+    <Assignee>钱二</Assignee>
+    <Content>海隆软件</Content>
+    <HandlingNote>暂停</HandlingNote>
+    <Status>1</Status>
+    <FinallyTime>20180926</FinallyTime>
+    <Checker>钱二</Checker>
+    <CheckTime>20180926</CheckTime>
+  </task>
+
+</tasks>

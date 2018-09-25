@@ -1,0 +1,13 @@
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\bin\Debug\tp.exe
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\bin\Debug\tp.pdb
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\tpgui.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskList.resources
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskEdit.resources
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskProcess.resources
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskConfirm.resources
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormLinkFile.resources
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.Properties.Resources.resources
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\tpgui.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\tpgui.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\tp.exe
+D:\Microsoft Visual Studio\task-process-master\src\tpgui\obj\Debug\tp.pdb
